@@ -36,7 +36,6 @@ void setup() {
 void .... () {                                        //(Soal 7)
   Blynk.run();
   timer.run();
-
 }
 
 void sendDataToBlynk() {
